@@ -30,16 +30,16 @@
     height: 100%;
   }
 
-/* Tablet */
+/* Tablet
 @media only screen and (min-width: 481px) and (max-width: 820px) {
     #tablero {
       border: 20px solid yellow;
     }
   }
   
-  /* Phone */
+  /* Phone 
   @media only screen and (max-width:480px) {
     #tablero {
       border: 0;
     }
-  }
+  } */
